@@ -1,3 +1,0 @@
-E:/02_Proj/00_FPGA/SDK/WorkSpace/linux2/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
-E:/02_Proj/00_FPGA/SDK/WorkSpace/linux2/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
-E:/02_Proj/00_FPGA/SDK/WorkSpace/linux2/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
