@@ -1,0 +1,24 @@
+{
+  "modelVersion": "1.0",
+  "projectName": "amp_system",
+  "platform": "E:\\02_Proj\\00_FPGA\\SDK\\WorkSpace\\linux2\\platform\\export\\platform\\platform.xpfm",
+  "externalComponentRefs": [
+    "hello_world",
+    "hello_world_1"
+  ],
+  "components": [],
+  "buildConfigurations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "supportedTargets": [
+        "HW_EMU",
+        "HW"
+      ]
+    }
+  ],
+  "activeBuildConfigId": "default",
+  "hostMode": "x86",
+  "isDirty": true,
+  "applicationFlow": "EMBEDDED"
+}
